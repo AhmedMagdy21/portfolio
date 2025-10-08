@@ -37,7 +37,7 @@ export function Hero() {
               <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full blur-2xl opacity-20 animate-pulse" />
               <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary/20 shadow-2xl">
                 <Image
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-10-08%20at%2005.20.21_6d310ff4-L93khCLjiFsI7AfzmbGJGhOar21BQQ.jpg"
+                  src="/professional-developer-portrait.png"
                   alt={data.summary.name}
                   fill
                   className="object-cover w-full h-full"
